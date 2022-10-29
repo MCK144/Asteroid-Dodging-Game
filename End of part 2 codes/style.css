@@ -1,0 +1,18 @@
+body{
+	font-family: Courier;
+}
+
+
+canvas{
+	border: 3px solid black;
+	margin: auto;
+	display: block;
+}
+
+#gameOver{
+	color: red;
+	font-weight: bold;
+	font-size: 50px;
+	text-align: center;
+	height: 40px;
+}
